@@ -1,6 +1,6 @@
 # Odoo Marketing Channels for CRM
 
-Odoo Marketing Channels is an additional module that inherit the CRM module then add a marketing channels field into the crm oppoertunity and lead, then you may add following marketing type and it's description as follows:
+Odoo Marketing Channels is an additional module that inherit the CRM module then add a marketing channels field into the crm opportunity and lead, then you may add following marketing type and it's description as follows:
 
 * **Advertising:** Any paid form of non-personal presentation and promotion of ideas, goods, or services by an identified sponsor.
 * **Public relations:** The practice of building good relations with the public by issuing press releases, hosting events, and sponsoring charitable causes.
