@@ -9,7 +9,7 @@ Odoo Marketing Channels is an additional module that inherit the CRM module then
 * **Traditional media:** Television, radio, print, and outdoor advertising.
 * **Digital media:** Social media, search engine marketing, and email marketing.
 * **Events:** Trade shows, conferences, and customer appreciation events.
-* **Word-of-mouth:** This is when customers share their experiences with a product or service with their friends and family.
+* **Customers experiences:** An information shared by customer to their collegues or others.
 
 The module also provides a reports base that businesses can use to see their marketing campaigns based on the marketing channels.
 
