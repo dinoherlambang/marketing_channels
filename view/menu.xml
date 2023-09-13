@@ -1,0 +1,7 @@
+<odoo>
+	<data>
+		<menuitem id="marketing_channels_top_menu" name="Marketing Channels" sequence="20" web_icon="marketing_channels,static/description/icon.png" />
+		<menuitem id="marketing_channels_sub_menu" name="Operations" sequence="40" parent="marketing_channels_top_menu" />
+		<menuitem id="marketing_channels_config_menu" name="Configurations" sequence="50" parent="marketing_channels_top_menu" />
+	</data>
+</odoo>

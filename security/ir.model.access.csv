@@ -1,0 +1,4 @@
+"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
+access_user_marketing_channels_channels_type,access_user_marketing_channels_channels_type,model_marketing_channels_channels_type,marketing_channels.group_marketing channels_user,1,0,0,0
+access_manager_marketing_channels_channels_type,access_manager_marketing_channels_channels_type,model_marketing_channels_channels_type,marketing_channels.group_marketing channels_manager,1,1,1,1
+access_admin_marketing_channels_channels_type,access_admin_marketing_channels_channels_type,model_marketing_channels_channels_type,base.group_system,1,1,1,1
