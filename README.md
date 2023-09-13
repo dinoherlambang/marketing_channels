@@ -1,6 +1,6 @@
 # Odoo Marketing Channels for CRM
 
-Odoo Marketing Channels for CRM is a module that allows businesses to manage their marketing channels in a single place. The module provides a variety of features, including:
+Odoo Marketing Channels for CRM is a module that allows businesses to manage their marketing channels in a single place. The module provides a variety type of marketing channel like follows:
 
 * **Advertising:** Any paid form of non-personal presentation and promotion of ideas, goods, or services by an identified sponsor.
 * **Public relations:** The practice of building good relations with the public by issuing press releases, hosting events, and sponsoring charitable causes.
