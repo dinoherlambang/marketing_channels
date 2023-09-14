@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+    <record id="channels_type_1" model="marketing_channels.channels_type">
+        <field name="name">Advertising</field>
+        <field name="description">Paid promotion to a third-party advertising partner or sponsorship.</field>
+    </record>
+    <record id="channels_type_2" model="marketing_channels.channels_type">
+        <field name="name">Direct E-marketing</field>
+        <field name="description">Direct call, Messenger, telemarketing, or direct email to potential customers.</field>
+    </record>
+    <record id="channels_type_3" model="marketing_channels.channels_type">
+        <field name="name">Product promotion</field>
+        <field name="description">A short-term incentive to encourage customers to buy a product or service</field>
+    </record>
+    <record id="channels_type_4" model="marketing_channels.channels_type">
+        <field name="name">Direct selling</field>
+        <field name="description">Selling products or services directly to potential customers.</field>
+    </record>
+    <record id="channels_type_5" model="marketing_channels.channels_type">
+        <field name="name">Traditional media</field>
+        <field name="description">Traditional advertising by television, radio, print, and outdoor advertising.</field>
+    </record>
+    <record id="channels_type_6" model="marketing_channels.channels_type">
+        <field name="name">Digital social media</field>
+        <field name="description">Potential customers come from social media (WhatsApp Business, Instagram, etc.), search engine marketing (Google Search and Maps), and marketplace platforms.</field>
+    </record>
+    <record id="channels_type_7" model="marketing_channels.channels_type">
+        <field name="name">Events</field>
+        <field name="description">Trade shows, conferences, and customer appreciation events</field>
+    </record>
+    <record id="channels_type_8" model="marketing_channels.channels_type">
+        <field name="name">Customers experiences</field>
+        <field name="description">Information shared by existing customers to others.</field>
+    </record>
+</odoo>

@@ -1,15 +1,15 @@
 # Odoo Marketing Channels for CRM
 
-Odoo Marketing Channels is an additional module that inherit the CRM module then add a marketing channels field into the crm opportunity and lead, then you may add following marketing type and it's description as follows:
+Odoo Marketing Channels is an additional module that inherit the CRM module then add a marketing channels field into the crm opportunity and lead also it's already added with following marketing type and description data as follows:
 
-* **Advertising:** Any paid form of non-personal presentation and promotion of ideas, goods, or services by an identified sponsor.
-* **Public relations:** The practice of building good relations with the public by issuing press releases, hosting events, and sponsoring charitable causes.
-* **Sales promotion:** A short-term incentive to encourage customers to buy a product or service.
-* **Direct marketing:** Direct mail, email, or telemarketing to reach potential customers.
-* **Traditional media:** Television, radio, print, and outdoor advertising.
-* **Digital media:** Social media, search engine marketing, and email marketing.
+* **Advertising:** Paid promotion to a third-party advertising partner or sponsorship.
+* **Direct E-marketing:** Direct call, Messenger, telemarketing, or direct email to potential customers.
+* **Product promotion:** A short-term incentive to encourage customers to buy a product or service..
+* **Direct selling:** Selling products or services directly to potential customers.
+* **Traditional media:** Traditional advertising by television, radio, print, and outdoor advertising.
+* **Digital media:** Potential customers come from social media (WhatsApp Business, Instagram, etc.), search engine marketing (Google Search and Maps), and marketplace platforms.
 * **Events:** Trade shows, conferences, and customer appreciation events.
-* **Customers experiences:** An information shared by customer to their collegues or others.
+* **Customers experiences:** Information shared by existing customers to others.
 
 The module also provides a reports base that businesses can use to see their marketing campaigns based on the marketing channels.
 

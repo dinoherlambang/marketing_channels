@@ -27,6 +27,7 @@ Information
 """,
 	"data": [
 		"security/groups.xml",
+        "data/channels_type_data.xml",
 		"security/ir.model.access.csv",
 		"view/menu.xml",
 		"view/marketing_channels.xml", #inherited
